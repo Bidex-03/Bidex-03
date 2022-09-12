@@ -4,7 +4,7 @@ Hi 👋 My name is Abdullah Qaasim
 Aspiring frontend developer
 ---------------------------
 
-It's not long ago I started my frontend development journey. Meanwhile, I dedicated more time to it starting this year(2022). I've worked more on personal development. I've collaborated with a UI/UX designer in order to build myself and have more solid projects.
+It's not long ago I started my frontend development journey. Meanwhile, I dedicated more time to it from the middle of the year(2022). I've worked more on personal development. I've collaborated with a UI/UX designer in order to build myself and have more solid projects.
 
 *   🌍  I'm based in Oyo State, Nigeria
 *   ✉️  You can contact me at [abdullahqaasim@gmail.com](mailto:abdullahqaasim@gmail.com)
