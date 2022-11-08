@@ -1,7 +1,7 @@
 Hi 👋 My name is Abdullah Qaasim
 ================================
 
-Aspiring frontend developer
+Frontend developer
 ---------------------------
 
 It's not long ago I started my frontend development journey. Meanwhile, I dedicated more time to it from the middle of the year(2022). I've worked more on personal development. I've collaborated with a UI/UX designer in order to build myself and have more solid projects.
