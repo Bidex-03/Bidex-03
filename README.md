@@ -4,7 +4,7 @@ Hi 👋 My name is Abdullah Qaasim
 Frontend developer
 ---------------------------
 
-It's not long ago I started my frontend development journey. Meanwhile, I dedicated more time to it from the middle of the year(2022). I've worked more on personal development. I've collaborated with UI/UX designers in order to build myself and have more solid projects.
+I'm a dedicated frontend developer, proficient with React JS. I've worked more on personal development in the past years. I've collaborated with UI/UX designers in order to build myself and have more solid projects.
 
 *   🌍  I'm based in Oyo State, Nigeria
 *   ✉️  You can contact me at [abdullahqaasim14@gmail.com](mailto:abdullahqaasim14@gmail.com)
