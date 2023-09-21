@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer
 ------------------
 
-I'm a dedicated frontend developer, proficient with React JS. I've worked more on personal development in the past years. I've collaborated with UI/UX designers in order to build myself and have more solid projects.
+I'm a frontend developer, proficient in React JS. I've worked more on personal development in the past years. I've collaborated with UI/UX designers in order to build myself and have more solid projects.
 
 * ✉️  You can contact me at [abdullahqaasim14@gmail.com](mailto:abdullahqaasim14@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects relating to frontend development
